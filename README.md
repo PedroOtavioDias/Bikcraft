@@ -50,6 +50,3 @@ Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.vi
 
 O projeto está sob a licença MIT. Para saber mais, acesse o arquivo [LICENSE](https://github.com/devMagno/bikcraft/blob/master/LICENSE).
 
----
-
-**Desenvolvido com 💛 por [Guilherme Magno](https://github.com/devmagno/).**
